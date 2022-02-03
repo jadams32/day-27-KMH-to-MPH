@@ -33,6 +33,4 @@ kilometers_per_hour.grid(column=3, row=0)
 miles_per_hour = Label(text="MPH", font=FONT)
 miles_per_hour.grid(column=3, row=1)
 
-
-
 window.mainloop()
